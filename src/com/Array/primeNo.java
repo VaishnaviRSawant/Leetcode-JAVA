@@ -1,3 +1,5 @@
+package com.Array;
+
 // Java Program to demonstrate Brute Force Method to check if a number is prime
 class primeNo {
     static boolean isPrime(int n)

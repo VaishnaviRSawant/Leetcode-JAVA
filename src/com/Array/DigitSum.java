@@ -1,3 +1,5 @@
+package com.Array;
+
 public class DigitSum {
     public static void main(String[] args) {
         System.out.println(sumDigits(123));
@@ -11,3 +13,4 @@ public class DigitSum {
         return (n%10)+ sumDigits(n/10);
     }
 }
+

@@ -1,3 +1,5 @@
+package com.Array;
+
 class missingPositive {
     public int firstMissingPositive(int[] nums) {
         int i=0;

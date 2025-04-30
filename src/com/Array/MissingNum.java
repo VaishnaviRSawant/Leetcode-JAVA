@@ -1,3 +1,5 @@
+package com.Array;
+
 //268. Missing Number
 class MissingNum{
     public int missingNumber(int[] nums) {
